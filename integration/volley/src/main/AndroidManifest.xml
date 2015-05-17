@@ -3,8 +3,8 @@
           package="com.bumptech.glide.integration.volley">
 
     <application>
-        <meta-data
+        /*<meta-data
             android:name="com.bumptech.glide.integration.volley.VolleyGlideModule"
-            android:value="GlideModule"/>
+            android:value="GlideModule"/>*/
     </application>
 </manifest>
